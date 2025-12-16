@@ -1,5 +1,7 @@
 # Ai Powered Job Matching Platform
 
+Developed By :- UDIT KUMAR & YASH ANAND []
+
 This is Mern Stack Project in which we use the Reactjs Nodejs Express MongoDB, Gemini Jwt Cloudnary 
 
 ## How to Run The Program
