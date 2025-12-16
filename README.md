@@ -1,6 +1,6 @@
 # Ai Powered Job Matching Platform
 
-Developed By :- UDIT KUMAR & YASH ANAND <a href="https://github.com/iamtidu/College-Management-System-using-php" target="_blank">Github Link</a>
+Developed By :- UDIT KUMAR & YASH ANAND <a href="https://github.com/urssam0" target="_blank">Github Link</a>
 
 This is Mern Stack Project in which we use the Reactjs Nodejs Express MongoDB, Gemini Jwt Cloudnary 
 
